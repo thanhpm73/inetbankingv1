@@ -1005,3 +1005,20 @@
 2023-04-01 19:36:02 INFO  eBanking:15 - User name is provided
 2023-04-01 19:36:02 INFO  eBanking:18 - Password is provided
 2023-04-01 19:36:07 INFO  eBanking:26 - Providing customer details...
+2023-04-01 22:27:09 INFO  eBanking:20 - Url is opened
+2023-04-01 22:27:09 INFO  eBanking:23 - Enter username
+2023-04-01 22:27:09 INFO  eBanking:26 - Enter password
+2023-04-01 22:27:10 INFO  eBanking:32 - Login test passed
+2023-04-01 22:27:17 INFO  eBanking:21 - User name provided
+2023-04-01 22:27:18 INFO  eBanking:24 - password provided
+2023-04-01 22:27:22 WARN  eBanking:40 - Login Passed
+2023-04-01 22:27:28 INFO  eBanking:21 - User name provided
+2023-04-01 22:27:29 INFO  eBanking:24 - password provided
+2023-04-01 22:27:35 INFO  eBanking:21 - User name provided
+2023-04-01 22:27:35 INFO  eBanking:24 - password provided
+2023-04-01 22:27:40 INFO  eBanking:21 - User name provided
+2023-04-01 22:27:40 INFO  eBanking:24 - password provided
+2023-04-01 22:27:44 WARN  eBanking:40 - Login Passed
+2023-04-01 22:27:59 INFO  eBanking:15 - User name is provided
+2023-04-01 22:27:59 INFO  eBanking:18 - Password is provided
+2023-04-01 22:28:04 INFO  eBanking:26 - Providing customer details...
