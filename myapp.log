@@ -1022,3 +1022,15 @@
 2023-04-01 22:27:59 INFO  eBanking:15 - User name is provided
 2023-04-01 22:27:59 INFO  eBanking:18 - Password is provided
 2023-04-01 22:28:04 INFO  eBanking:26 - Providing customer details...
+2023-04-03 08:21:54 INFO  eBanking:20 - Url is opened
+2023-04-03 08:21:54 INFO  eBanking:23 - Enter username
+2023-04-03 08:21:54 INFO  eBanking:26 - Enter password
+2023-04-03 08:21:56 INFO  eBanking:32 - Login test passed
+2023-04-03 08:25:48 INFO  eBanking:20 - Url is opened
+2023-04-03 08:25:48 INFO  eBanking:23 - Enter username
+2023-04-03 08:25:49 INFO  eBanking:26 - Enter password
+2023-04-03 08:25:50 INFO  eBanking:32 - Login test passed
+2023-04-03 08:26:46 INFO  eBanking:20 - Url is opened
+2023-04-03 08:26:46 INFO  eBanking:23 - Enter username
+2023-04-03 08:26:46 INFO  eBanking:26 - Enter password
+2023-04-03 08:26:48 INFO  eBanking:32 - Login test passed

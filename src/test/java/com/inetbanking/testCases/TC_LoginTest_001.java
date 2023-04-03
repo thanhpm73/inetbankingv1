@@ -14,7 +14,7 @@ import com.inetbanking.pageObjects.LoginPage;
 public class TC_LoginTest_001 extends BaseClass {
 	
 	@Test
-	public void loginTest() throws IOException
+	public void loginTest() throws IOException, InterruptedException
 	{
 		//driver.get(baseUrl);
 		logger.info("Url is opened");
@@ -37,6 +37,8 @@ public class TC_LoginTest_001 extends BaseClass {
 			Assert.assertTrue(false);
 			logger.info("Login test failed");
 		}
+		
+		Thread.sleep(2000);
 	
 			
 	}

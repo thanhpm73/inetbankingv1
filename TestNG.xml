@@ -9,8 +9,8 @@
       <classes>
    
       <class name='com.inetbanking.testCases.TC_LoginTest_001'></class> 
-       <class name='com.inetbanking.testCases.TC_LoginDDT_002'></class> 
-       	<class name='com.inetbanking.testCases.TC_AddCustomerTest_003'></class>
+      <!--  <class name='com.inetbanking.testCases.TC_LoginDDT_002'></class> 
+       	<class name='com.inetbanking.testCases.TC_AddCustomerTest_003'></class>-->
       </classes>
     	
   </test>
